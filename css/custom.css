@@ -1,7 +1,13 @@
 .jumbotron h1 {
-  color: red;
+  color: darkblue;
 }
 
 h3.home-cats {
    font-size: 30px;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 18;
+    font-weight: 200;
 }

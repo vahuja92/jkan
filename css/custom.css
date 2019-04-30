@@ -12,9 +12,7 @@
     margin-bottom: 30px;
     color: inherit;
     background-color: #96abb3
-    background-image: url("/Users/vedikaahuja/jkan/_site/img/chicago_map.jpg");
 }
-
 
 
 body {
@@ -23,6 +21,8 @@ body {
     line-height: 1.42857143;
     color: #333;
     background-color: lightblue;
+    background-image: url("/Users/vedikaahuja/jkan/_site/img/chicago_map.jpg");
+
 }
 
 h3.home-cats {
@@ -59,4 +59,8 @@ h3.home-cats {
     -webkit-transition: border .2s ease-in-out;
     -o-transition: border .2s ease-in-out;
     transition: border .2s ease-in-out;
+}
+
+.homepage-categories a {
+    color: #6f0808;
 }

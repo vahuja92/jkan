@@ -11,13 +11,11 @@
     padding-bottom: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: lightblue;
+    background-color: #96abb3
+    background-image: url("/Users/vedikaahuja/jkan/_site/img/chicago_map.jpg");
 }
 
-body {
-  background-image: url("https://www.google.com/search?q=map+of+chicago&client=firefox-b-1-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjjyuGtyfbhAhUMY6wKHdE2ALMQ_AUIDygC&biw=1208&bih=631#imgrc=Q2hU7gHJR1JQHM");
-  background-repeat: repeat-x;
-}
+
 
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;

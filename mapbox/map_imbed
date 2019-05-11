@@ -1,0 +1,6 @@
+---
+title: Mapbox Embed
+layout: default
+permalink: /mapbox-embed/
+---
+<iframe src="https://github.com/vahuja92/jkan/mapbox/index.html" width="100%" height="600px;">
